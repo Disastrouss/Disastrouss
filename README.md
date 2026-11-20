@@ -1,42 +1,82 @@
-# ¡Hola! Soy Sergio Moreno 👋
+<div align="center">
 
-### 💻 Estudiante de Ingeniería de Software
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SERGIO%20MORENO&fontSize=55&color=0:240046,50:5A189A,100:10002B&stroke=9D4EDD&fontColor=FFFFFF&animation=fadeIn&desc=ESTUDIANTE%20DE%20INGENIERÍA%20DE%20SOFTWARE&descSize=15&descAlignY=70"/>
 
-Soy estudiante de Ingeniería de Software, apasionado por la tecnología, la programación y el desarrollo de soluciones digitales.
+<br>
 
-Me interesa aprender nuevas tecnologías, explorar diferentes áreas del desarrollo de software y fortalecer constantemente mis habilidades técnicas.
+### 👾 Bienvenido a mi espacio digital
 
----
+**Estudiante de Ingeniería de Software | Desarrollador de Software**
 
-### 🛠️ Tecnologías y herramientas
+[![GitHub](https://img.shields.io/badge/GitHub-Disastrouss-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Disastrouss)
 
-- **Lenguajes:** JavaScript, Python, C#
-- **Desarrollo web:** HTML5, CSS3
-- **Bases de datos:** SQL, Supabase
-- **Herramientas:** Git, GitHub, Visual Studio Code
+</div>
 
 ---
 
-### 🎯 Áreas de interés
+## 👨🏻‍💻 Sobre mí
 
-- Ingeniería de Software
-- Desarrollo de aplicaciones
-- Desarrollo web
-- Automatización de procesos
-- Inteligencia artificial
-- Ciberseguridad
-- Arquitectura de software
+Soy estudiante de Ingeniería de Software, apasionado por la tecnología, la programación y la creación de soluciones digitales.
 
----
+Me interesa explorar nuevas tecnologías, comprender cómo funcionan los sistemas y desarrollar habilidades que me permitan construir software de calidad.
 
-### 📚 Actualmente
-
-- Fortaleciendo mis conocimientos de programación.
-- Aprendiendo nuevas tecnologías y herramientas.
-- Explorando buenas prácticas de desarrollo de software.
+- 🎓 Estudiando Ingeniería de Software.
+- 💻 Interesado en desarrollo de software y tecnologías web.
+- 🔍 Explorando nuevas herramientas y tecnologías.
+- 🚀 En constante aprendizaje y evolución.
 
 ---
 
-### ⚡ Filosofía
+## ⚙️ Tecnologías y herramientas
 
-*La tecnología evoluciona constantemente. Mi objetivo es evolucionar con ella.*
+### Lenguajes de programación
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,python,cs&theme=dark"/>
+</div>
+
+### Desarrollo web
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+</div>
+
+### Bases de datos
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark"/>
+</div>
+
+### Entorno de desarrollo
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark"/>
+</div>
+
+---
+
+## 🧠 Áreas de interés
+
+<div align="center">
+
+![Desarrollo de software](https://img.shields.io/badge/Desarrollo_de_Software-6A00F4?style=for-the-badge)
+![Automatización](https://img.shields.io/badge/Automatización-7209B7?style=for-the-badge)
+![Desarrollo web](https://img.shields.io/badge/Desarrollo_Web-4361EE?style=for-the-badge)
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-3A0CA3?style=for-the-badge)
+![Inteligencia artificial](https://img.shields.io/badge/Inteligencia_Artificial-560BAD?style=for-the-badge)
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
+### ⚡ Siempre aprendiendo. Siempre evolucionando.
+
+*El código es una herramienta. La creatividad es el límite.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:240046&height=110&section=footer"/>
+
+</div>
