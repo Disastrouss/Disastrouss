@@ -1,9 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SERGIO%20MORENO&fontSize=55&color=0:240046,50:5A189A,100:10002B&stroke=9D4EDD&fontColor=FFFFFF&animation=fadeIn&desc=ESTUDIANTE%20DE%20INGENIERÍA%20DE%20SOFTWARE&descSize=15&descAlignY=70"/>
+<div align="center">
 
-<br>
+<img src="./banner-pixel-art.png.png" width="100%" alt="Sergio Moreno - Atardecer Pixel Art"/>
 
+</div>
 ### 👾 Bienvenido a mi espacio digital
 
 **Estudiante de Ingeniería de Software | Desarrollador de Software**
